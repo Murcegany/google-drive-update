@@ -1,1 +1,9 @@
-{"access_token":"chave do token de exemplo","token_type":"Bearer","expires_in":3599,"refresh_token":"exemplo","scope":"https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/gmail.readonly","Issued":"2024-08-01T08:09:21.263-03:00","IssuedUtc":"2024-08-01T11:09:21.263Z"}
+{
+    "access_token": "EXAMPLE_ACCESS_TOKEN",
+    "token_type": "Bearer",
+    "expires_in": 3599,
+    "refresh_token": "EXAMPLE_REFRESH_TOKEN",
+    "scope": "https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/gmail.readonly",
+    "Issued": "2024-08-01T08:09:21.263-03:00",
+    "IssuedUtc": "2024-08-01T11:09:21.263Z"
+}
