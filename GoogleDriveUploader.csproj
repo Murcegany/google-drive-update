@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Gmail.v1" Version="1.52.0.2339" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.52.0.2348" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.52.0" />
+  </ItemGroup>
+</Project>
