@@ -1,0 +1,12 @@
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\GoogleDriveUploader.exe
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\GoogleDriveUploader.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\GoogleDriveUploader.deps.json
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\GoogleDriveUploader.runtimeconfig.json
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\GoogleDriveUploader.pdb
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.Auth.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.Core.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.Drive.v3.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Google.Apis.Gmail.v1.dll
+C:\Users\mvmar\OneDrive\Documentos\google-drive\google-drive-update\bin\Release\net8.0\publish\Newtonsoft.Json.dll

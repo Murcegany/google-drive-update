@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gSsROLhfDc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mvmar\\OneDrive\\Documentos\\google-drive\\google-drive-update\\GoogleDriveUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvmar\\.nuget\\packages\\google.apis\\1.52.0\\google.apis.1.52.0.nupkg.sha512",
+    "C:\\Users\\mvmar\\.nuget\\packages\\google.apis.auth\\1.52.0\\google.apis.auth.1.52.0.nupkg.sha512",
+    "C:\\Users\\mvmar\\.nuget\\packages\\google.apis.core\\1.52.0\\google.apis.core.1.52.0.nupkg.sha512",
+    "C:\\Users\\mvmar\\.nuget\\packages\\google.apis.drive.v3\\1.52.0.2348\\google.apis.drive.v3.1.52.0.2348.nupkg.sha512",
+    "C:\\Users\\mvmar\\.nuget\\packages\\google.apis.gmail.v1\\1.52.0.2339\\google.apis.gmail.v1.1.52.0.2339.nupkg.sha512",
+    "C:\\Users\\mvmar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

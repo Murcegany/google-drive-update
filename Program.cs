@@ -174,7 +174,7 @@ class Program
 
                         if (message.Payload.Parts != null)
                         {
-                            foreach (var part in message.Payload.Pparts)
+                            foreach (var part in message.Payload.Parts)
                             {
                                 if (!string.IsNullOrEmpty(part.Filename) && part.Filename.EndsWith(".pdf") && part.Body != null && part.Body.AttachmentId != null)
                                 {

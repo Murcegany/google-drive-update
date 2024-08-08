@@ -1,6 +1,6 @@
 # Gmail to Google Drive Integration
 
-Este projeto é um script em C# que faz a integração entre o Gmail e o Google Drive. Ele busca e-mails não lidos, faz o upload de anexos PDF para uma pasta específica no Google Drive, e em seguida, marca esses e-mails como lidos e os exclui.
+Este projeto é um script em C# que faz a integração entre o Gmail e o Google Drive. Ele busca e-mails não lidos, faz o upload de anexos PDF para uma pasta específica no Google Drive, e em seguida, marca esses e-mails como lidos e os exclui. Sendo um projeto de exemplo, sendo necessário substituir por campos verdadeiros.
 
 ### Como Funciona
 
